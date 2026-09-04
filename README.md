@@ -1,5 +1,3 @@
-![Rezero](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGM1c3BkdGxvNXlkZjAzMjhzdDhwaGVkZjcweW9zNDM1ZDBwbWo4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buh8WbaZLupolXi/giphy.gif)
-
 # Hi, I'm Mufti Rayhan 👋
 
 Information Technology Student passionate about Web Development, Cybersecurity, and Software Engineering.
